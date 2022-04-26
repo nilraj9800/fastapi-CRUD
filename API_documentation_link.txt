@@ -1,5 +1,0 @@
-Here is the documentation link for the API endpoints
-
-https://documenter.getpostman.com/view/19821056/UyrBkH38
-
-The documentation was created in Postman
